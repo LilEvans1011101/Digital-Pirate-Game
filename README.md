@@ -1,2 +1,5 @@
 # Digital-Pirate-Game
-The maths pirate game, but digital
+Making the Pirate Game played in maths, but digitally. 
+-Saves Paper
+-More Customisability
+-Handles player requests
